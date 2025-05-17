@@ -37,8 +37,3 @@ Este projeto utiliza agentes de IA e a API do Google para analisar tendências n
 1.  Execute o código em um ambiente Python (preferencialmente Google Colaboratory).
 2.  Insira o ticker da ação quando solicitado.
 3.  Aguarde a análise gerada pelo sistema.
-
-## Exemplo
-
-```python
-# (Código do projeto fornecido)
